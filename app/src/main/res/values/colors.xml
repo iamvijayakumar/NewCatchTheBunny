@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="background_dark">#EDEDED</color>
+    <color name="backgound_grey">#F4F4F4</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+
+    <color name="light_white">#D8DBDC</color>
+    <color name="button_gray">#f2f0f1</color>
+    <color name="gray">#e8e8e8</color>
+    <color name="tab_orange">#f4aa7d</color>
+    <color name="category_text_color">#E09C72</color>
+    <color name="tab_red">#f77</color>
+    <color name="tab_blue">#3cf</color>
+    <color name="tab_green">#4ec</color>
+    <color name="tab_purple">#daf</color>
+    <color name="green_button">#7c4</color>
+
+    <color name="gray_color">#1e2329</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="transparent_black">#80000000</color>
+    <color name="profile_gray">#1a1d22</color>
+    <color name="tab_background_grey">#2e323e</color>
+    <color name="light_gray">#363E55</color>
+    <color name="text_gray">#567</color>
+    <color name="button_text_gray">#919090</color>
+    <color name="un_ans_ques_gray">#445</color>
+    <color name="edittxt_gray">#ddd</color>
+    <color name="bg">#1A1D22</color>
+
+    <color name="nudge_green">#5a3</color>
+    <color name="exit_red">#d44c4c</color>
+    <color name="wrong_selected_red">#E6393A</color>
+    <color name="correct_selected_green">#1D8C2D</color>
+
+    <color name="brown">#D36266</color>
+    <color name="backgroundColor">#E8E8E0</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+    <color name="slide_menu_bg">#2E323E</color>
+    <color name="t_color">#2DBDF4</color>
+
+    <color name="main_bg_color">#1A1D22</color>
+    <color name="text_color">#7C8394</color>
+
+    <color name="gray_button">#F2F0F1</color>
+
+    <color name="colorheading">#12A7D1</color>
+    <color name="colorcontent">#BDBDBD</color>
+    <color name="button_border">#7D7C7E</color>
+    <color name="center_layout_gray">#F2FAFA</color>
+    <color name="activity_bg">#0C0C0C</color>
+
+    <color name="text_color_gray">#989fbc</color>
+    <color name="redeem_phone_gray">#77787C</color>
+    <color name="hint_color">#BDBDBD</color>
+    <color name="white_gray">#a8b2c4</color>
+    <color name="edit_text_gray">#afb4bb</color>
+    <color name="text_bg_black">#13161b</color>
+    <color name="profile_text_color">#d0dbec</color>
+
+    <color name="blue">#29b9f7</color>
+
+
+
+    <!--category color palette -->
+    <color name="geography_cat">#05928a</color>
+    <color name="gk_cat">#e6125f</color>
+    <color name="food_cat">#60737a</color>
+    <color name="sports_cat">#ef472a</color>
+    <color name="music_cat">#414bba</color>
+    <color name="hollywood_cat">#279df5</color>
+    <color name="bollywood_cat">#48b243</color>
+    <color name="science_cat">#fdc518</color>
+    <color name="technology_cat">#a618ba</color>
+    <color name="wildlife_cat">#2645eb</color>
+    <color name="logo_cat">#80b946</color>
+    <color name="current_aff_cat">#ff9a05</color>
+    <color name="business_cat">#6c37c3</color>
+    <color name="culture_cat">#162584</color>
+    <color name="people_cat">#d8f251</color>
+    <color name="lifestyle_cat">#ff5214</color>
+
+</resources>
