@@ -49,7 +49,15 @@ public class LoginActivity extends Activity {
         setContentView(R.layout.login_activity);
         loginButton = (LoginButton) findViewById(R.id.login_button);
         myUserDetails = new UserDetails("Catch");
-        fbLogin();
+
+        UserDetails userDetails = UserDetails.getMyUserDetails(LoginActivity.this);
+        if(userDetails != null && userDetails.getUserToken() != null){
+            Intent in = new Intent(LoginActivity.this, AndroidGridLayoutActivity.class);
+            startActivity(in);
+            finish();
+        }else {
+            fbLogin();
+        }
     }
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
