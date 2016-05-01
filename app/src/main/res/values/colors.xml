@@ -85,5 +85,6 @@
     <color name="culture_cat">#162584</color>
     <color name="people_cat">#d8f251</color>
     <color name="lifestyle_cat">#ff5214</color>
+    <color name="red">#0292B6</color>
 
 </resources>
